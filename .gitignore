@@ -1,0 +1,91 @@
+# =========================================================
+# Visual Studio / MSBuild
+# =========================================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vcxproj.user
+
+# Build output directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSBuild / intermediates
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.idb
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.o
+*.iobj
+*.ipdb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.aps
+*.ncb
+*.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# =========================================================
+# vcpkg
+# =========================================================
+# Keep manifest files (vcpkg.json / vcpkg-configuration.json) committed,
+# but ignore the local installation of the vcpkg tool and its build outputs.
+vcpkg/
+vcpkg_installed/
+buildtrees/
+downloads/
+installed/
+packages/
+
+# =========================================================
+# Generated / runtime files
+# =========================================================
+download_history.txt
+*.exe
+*.msi
+*.dll
+
+# =========================================================
+# OS / Editor
+# =========================================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
