@@ -112,7 +112,7 @@ DownloadToolsV2/
 ## Developer
 
 - **Name:** Wisnu Rafi
-- **GitHub:** [github.com/wsnrfidev](https://github.com/wsnrfidev)
+- **GitHub:** [github.com/wsnrfidev](https://github.com/wisnurafi)
 - **Instagram:** [@wisnurafi_](https://instagram.com/wisnurafi_)
 
 ## License
