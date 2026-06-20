@@ -76,6 +76,13 @@ download_history.txt
 *.msi
 *.dll
 
+# CMake
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
 # =========================================================
 # OS / Editor
 # =========================================================

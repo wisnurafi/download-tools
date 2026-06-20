@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "Browser",
+      "items": [
+        { "id": 1, "name": "Google Chrome", "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BB1F81197-15E2-9FAC-4C7F-A86D6E2974D1%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx86-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe", "filename": "chrome_installer.exe", "available": true },
+        { "id": 2, "name": "Microsoft Edge", "url": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?ProductreleaseID=Edge&platform=Default&version=EdgeStable&source=EdgeWebview&Channel=Stable&language=en", "filename": "edge_installer.exe", "available": true },
+        { "id": 3, "name": "Opera GX", "url": "https://net.geo.opera.com/opera_gx/stable/windows", "filename": "opera_gx_installer.exe", "available": true }
+      ]
+    },
+    {
+      "name": "Sosial Media",
+      "items": [
+        { "id": 4, "name": "Discord", "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64", "filename": "discord_installer.exe", "available": true },
+        { "id": 5, "name": "Instagram", "available": false, "note": "Instagram tidak punya installer desktop resmi (PWA / Microsoft Store)." },
+        { "id": 6, "name": "WhatsApp", "url": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe", "filename": "whatsapp_installer.exe", "available": true },
+        { "id": 7, "name": "Telegram", "url": "https://telegram.org/dl/desktop/win64", "filename": "telegram_installer.exe", "available": true }
+      ]
+    },
+    {
+      "name": "Coding Tools",
+      "items": [
+        { "id": 8, "name": "Visual Studio Code", "url": "https://update.code.visualstudio.com/latest/win32-x64-user/stable", "filename": "vscode_installer.exe", "available": true },
+        { "id": 9, "name": "Visual Studio", "url": "https://aka.ms/vs/17/release/vs_community.exe", "filename": "visualstudio_installer.exe", "available": true },
+        { "id": 10, "name": "IntelliJ IDEA", "url": "https://download.jetbrains.com/product?code=IIC&latest&distribution=windows", "filename": "intellij_installer.exe", "available": true },
+        { "id": 11, "name": "Android Studio", "url": "https://redirector.gvt1.com/edgedl/android/studio/install/2026.1.1.10/android-studio-quail1-patch2-windows.exe", "filename": "androidstudio_installer.exe", "available": true }
+      ]
+    },
+    {
+      "name": "VPN",
+      "items": [
+        { "id": 12, "name": "Psiphon", "url": "https://psiphon.ca/psiphon3.exe", "filename": "psiphon_installer.exe", "available": true },
+        { "id": 13, "name": "Turbo VPN", "available": false, "note": "Turbo VPN tidak punya installer desktop resmi." },
+        { "id": 14, "name": "Proton VPN", "url": "https://protonvpn.com/download/ProtonVPN_win_v3.5.1.exe", "filename": "proton_vpn_installer.exe", "available": true }
+      ]
+    },
+    {
+      "name": "Media Player",
+      "items": [
+        { "id": 15, "name": "VLC Media Player", "url": "https://get.videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe", "filename": "vlc_installer.exe", "available": true },
+        { "id": 16, "name": "PotPlayer", "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe", "filename": "potplayer_installer.exe", "available": true },
+        { "id": 17, "name": "Winamp", "url": "https://download.nullsoft.com/winamp/client/winamp59_3000_full_en-us.exe", "filename": "winamp_installer.exe", "available": true },
+        { "id": 18, "name": "Windows Media Player", "available": false, "note": "Windows Media Player sudah bundled dengan Windows." }
+      ]
+    }
+  ]
+}
